@@ -1,0 +1,22 @@
+# window shorcuts keys you need to learn
+
+
+the computer is most esssential part of the today human life...
+
+
+#1. copy ctr+c
+2.paste ctr+v
+
+3.screenshoots= window logo key + prtscr
+4.windowlogo key +e =fileexploer
+5.windowlogokey+r =notepad
+6.fn + f5 =refresh
+7.alt + f4
+8.alt + tab 
+9.ctrl+n =new window 
+10.ctrl+s =save file
+11.ctr+z=undo file
+12.ctr+x=remove file
+
+
+

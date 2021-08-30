@@ -1,0 +1,11 @@
+pcommand prompt shortcuts keywords....
+1. cd 
+2.chdir
+3.dir
+4.path
+5.mkdir
+6.md
+7.rmdir
+8.time
+9.tree
+10.ver
